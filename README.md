@@ -20,4 +20,4 @@ Your users should be able to:
 
 **Have fun building!** 🚀
 
-[**Result:** 🚀](https://dimaa21.github.io/social-media-me/)
+[**Click here to see result** 🚀](https://dimaa21.github.io/social-media-me/)
