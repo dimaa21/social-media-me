@@ -1,0 +1,23 @@
+{
+  "name": "social-media-me",
+  "version": "1.0.0",
+  "description": "My Social Media",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmytro Haborak",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^3.0.2",
+    "global-cli": "^1.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.72.0"
+  }
+}
